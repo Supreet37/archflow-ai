@@ -1,12 +1,7 @@
 # 🏗️ ArchFlow AI — AI-Powered System Design Tool
 
 > Turn your product ideas into interactive system architecture diagrams in seconds.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-blue)](https://archflow-77dz929xe-supreet37s-projects.vercel.app)
-[![Backend](https://img.shields.io/badge/Backend-Hugging_Face-orange)](https://nerdy37-archflow-ai-backend.hf.space)
-[![Next.js](https://img.shields.io/badge/Next.js-15-black)](https://nextjs.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.115-green)](https://fastapi.tiangolo.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+<img src="demo.png">
 
 ---
 
